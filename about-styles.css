@@ -1,0 +1,58 @@
+/* Reset some default browser styles */
+
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+ 
+}
+
+section.about {
+    padding: 2rem 0;
+    background: #fff;
+}
+
+section.about .container {
+    width: 80%;
+    margin: auto;
+}
+
+section.about h2 {
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+footer {
+   position: relative;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+h1, h2, h3 {
+    color: #333;
+}
+p {
+    color: #555;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
